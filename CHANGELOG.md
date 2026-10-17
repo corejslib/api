@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.69 (2026-10-17)
+
+**Bug fixes:**
+
+- \[PATCH] fix: configure cache decoder through setter (● [32f2cd0](https://github.com/corejslib/api/commit/32f2cd0); 👬 zdm)
+
+Compare with the previous release: [v2.10.68...v2.10.69](https://github.com/corejslib/api/compare/v2.10.68...v2.10.69)
+
 ### v2.10.68 (2026-08-04)
 
 **Other changes:**
