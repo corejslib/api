@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.70 (2026-10-29)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: use toBase64 for base64 encoding calls (● [3d976a9](https://github.com/corejslib/api/commit/3d976a9); 👬 zdm)
+
+Compare with the previous release: [v2.10.69...v2.10.70](https://github.com/corejslib/api/compare/v2.10.69...v2.10.70)
+
 ### v2.10.69 (2026-10-17)
 
 **Bug fixes:**
