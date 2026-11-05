@@ -1,5 +1,17 @@
 # Changelog
 
+### v2.10.71 (2026-11-05)
+
+**Bug fixes:**
+
+- \[PATCH] fix: use Date.now for request interval timing (● [e25ad7e](https://github.com/corejslib/api/commit/e25ad7e); 👬 zdm)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: use Temporal for request timing (● [8641db6](https://github.com/corejslib/api/commit/8641db6); 👬 zdm)
+
+Compare with the previous release: [v2.10.70...v2.10.71](https://github.com/corejslib/api/compare/v2.10.70...v2.10.71)
+
 ### v2.10.70 (2026-10-29)
 
 **Code refactoring:**
